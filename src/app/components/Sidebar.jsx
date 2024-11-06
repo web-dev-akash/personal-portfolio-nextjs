@@ -46,7 +46,7 @@ export const Sidebar = () => {
           </h1>
 
           <p className="title">
-            ‎<span ref={el}>Full Stack Developer</span>
+            ‎<span ref={el}></span>
           </p>
         </div>
 
